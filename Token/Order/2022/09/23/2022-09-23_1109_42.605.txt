@@ -1,0 +1,1 @@
+{"day_order_number":1,"payments":[{"payment_type_id":1,"amount":20}],"sale_total":20,"cash":20,"discount":0,"point":0,"lucky_draw":0,"game":0,"token":5,"sent":5,"unsent":0,"token_level":295,"created_at":"2022-09-23 11:09:42","shift_id":"1","account_day":"2022-09-23","sale_number":"2022092300001","card_number":"","card_serno":"","last_code":"","Promo":null}

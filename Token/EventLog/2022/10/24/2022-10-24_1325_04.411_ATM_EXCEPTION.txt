@@ -1,0 +1,25 @@
+{
+  "title": "ATM_EXCEPTION",
+  "event_type_id": 1905,
+  "part_id": 1543,
+  "part_type_id": 19,
+  "account_day": "2022-10-24",
+  "level": 1,
+  "priority": 0,
+  "remark": "
+Eeception:
+Error reading JObject from JsonReader. Path '', line 0, position 0.
+
+Method Name:MoveFrom
+Parameters:
+source=C:\\Users\\DebugATM\\Token\\\\EventTemp\\2022\\10\\24\\2022-10-24_1309_52.979_ATM_EXCEPTION.txt
+
+StackTrace:
+   於 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   於 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   於 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   於 Token.Log.MoveFrom(String source) 於 C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\Token\\Log.cs: 行 138
+",
+  "log_filename": null,
+  "created_at": "2022-10-24 13:25:04"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "ATM_EXCEPTION",
+  "event_type_id": 1905,
+  "part_id": 1573,
+  "part_type_id": 19,
+  "account_day": "2022-11-01",
+  "level": 1,
+  "priority": 0,
+  "remark": "
+Eeception:
+執行緒已經中止。
+
+Method Name:Exit
+Parameters:
+
+StackTrace:
+   於 System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   於 System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   於 System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   於 System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   於 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   於 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   於 System.Windows.Forms.Control.Invoke(Delegate method)
+   於 ATM.AtmForm.Exit() 於 C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\AtmForm\\AtmForm.cs: 行 191
+",
+  "log_filename": null,
+  "created_at": "2022-11-01 13:34:53"
+}
