@@ -1,0 +1,23 @@
+{
+  "title": "ATM_EXCEPTION",
+  "event_type_id": 1905,
+  "part_id": 1543,
+  "part_type_id": 19,
+  "account_day": "2022-10-28",
+  "level": 1,
+  "priority": 0,
+  "remark": "
+Eeception:
+指定的索引鍵不在字典中。
+
+Method Name:.ctor
+Parameters:
+id=ATM_EXCEPTION
+
+StackTrace:
+   於 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   於 ATM.Monitor.Event..ctor(Type id, String remark, Int32 priority) 於 C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\Monitor\\Event.cs: 行 158
+",
+  "log_filename": null,
+  "created_at": "2022-10-28 13:39:17"
+}

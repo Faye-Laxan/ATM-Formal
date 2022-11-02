@@ -1,0 +1,22 @@
+{
+  "title": "ATM_EXCEPTION",
+  "event_type_id": 1905,
+  "part_id": 1543,
+  "part_type_id": 19,
+  "account_day": "2022-10-31",
+  "level": 1,
+  "priority": 0,
+  "remark": "
+Eeception:
+執行緒已經中止。
+
+Method Name:ConsoleMessage
+Parameters:
+
+StackTrace:
+   於 ATM.AtmForm.Exit() 於 C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\AtmForm\\AtmForm.cs: 行 194
+   於 ATM.OtherForm.SettingHome.ConsoleMessage(String MSG) 於 C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\OtherForm\\SettingMode\\ConsoleOperation.cs: 行 90
+",
+  "log_filename": null,
+  "created_at": "2022-10-31 14:59:51"
+}

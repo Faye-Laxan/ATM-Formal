@@ -1,0 +1,66 @@
+{
+  "action": "409",
+  "success": true,
+  "code": 0,
+  "message": "",
+  "data": {
+    "card_levels": [
+      {
+        "id": 1,
+        "client_id": 3,
+        "title": "無卡",
+        "type": 1,
+        "protect": 1,
+        "online": 1,
+        "created_by": 15,
+        "created_at": "2020-09-02 15:15:29",
+        "updated_by": 15,
+        "updated_at": "2020-09-02 15:15:29",
+        "deleted_by": null,
+        "deleted_at": null
+      },
+      {
+        "id": 2,
+        "client_id": 3,
+        "title": "會員卡",
+        "type": 3,
+        "protect": 0,
+        "online": 1,
+        "created_by": 15,
+        "created_at": "2020-09-02 15:15:29",
+        "updated_by": 15,
+        "updated_at": "2021-04-21 08:57:24",
+        "deleted_by": null,
+        "deleted_at": null
+      },
+      {
+        "id": 3,
+        "client_id": 3,
+        "title": "一般卡",
+        "type": 3,
+        "protect": 0,
+        "online": 0,
+        "created_by": 15,
+        "created_at": "2020-09-02 15:15:29",
+        "updated_by": 15,
+        "updated_at": "2021-01-16 10:50:35",
+        "deleted_by": null,
+        "deleted_at": null
+      },
+      {
+        "id": 4,
+        "client_id": 3,
+        "title": "VIP卡",
+        "type": 3,
+        "protect": 0,
+        "online": 0,
+        "created_by": 15,
+        "created_at": "2020-09-02 15:15:29",
+        "updated_by": 15,
+        "updated_at": "2021-01-16 10:50:35",
+        "deleted_by": null,
+        "deleted_at": null
+      }
+    ]
+  }
+}
