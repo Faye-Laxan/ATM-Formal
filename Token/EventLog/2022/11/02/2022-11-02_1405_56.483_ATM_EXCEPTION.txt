@@ -1,0 +1,24 @@
+{
+  "title": "ATM_EXCEPTION",
+  "event_type_id": 1905,
+  "part_id": 0,
+  "part_type_id": 19,
+  "account_day": "2022-11-02",
+  "level": 1,
+  "priority": 0,
+  "remark": "
+Eeception:
+Object reference not set to an instance of an object.
+
+Method Name:Start
+Parameters:
+sender=System.Windows.Forms.Timer, Interval: 100
+e=System.EventArgs
+
+StackTrace:
+   at System.Net.Sockets.TcpClient.get_Connected()
+   at ATM.AtmForm.Start(Object sender, EventArgs e) in C:\\Users\\Faye.Lin\\source\\ATM Clone\\atm2.0\\AtmForm\\AtmForm.cs:line 272
+",
+  "log_filename": null,
+  "created_at": "2022-11-02 14:05:56"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "HOPPER_TOKEN_LEAK",
+  "event_type_id": 2202,
+  "part_id": 0,
+  "part_type_id": 22,
+  "account_day": "2022-10-24",
+  "level": 1,
+  "priority": 0,
+  "remark": "F5 8A 05 03 00 00 80 00 00 00 00 80 91 03 00 00 FB E7 D5 AA C3 D8 4C 85 2F 42 80 1A 29 AC 28 FA",
+  "log_filename": null,
+  "created_at": "2022-10-24 10:17:42"
+}

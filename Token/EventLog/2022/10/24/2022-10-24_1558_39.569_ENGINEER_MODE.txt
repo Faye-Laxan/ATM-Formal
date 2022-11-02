@@ -1,0 +1,12 @@
+{
+  "title": "ENGINEER_MODE",
+  "event_type_id": 4,
+  "part_id": 1544,
+  "part_type_id": 24,
+  "account_day": "2022-10-24",
+  "level": 1,
+  "priority": 0,
+  "remark": null,
+  "log_filename": null,
+  "created_at": "2022-10-24 15:58:39"
+}
