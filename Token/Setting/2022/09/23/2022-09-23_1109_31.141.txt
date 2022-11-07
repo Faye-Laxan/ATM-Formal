@@ -1,1 +1,0 @@
-{"user_id":"36","user_name":"user","shift_id":"1","shift_title":"01","set":1,"in_token":300,"out_token":0,"book_target":0,"eh_difference":0,"created_at":"2022-09-23 11:09:31","account_day":"2022-09-23"}
